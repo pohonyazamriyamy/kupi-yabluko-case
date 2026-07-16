@@ -56,7 +56,7 @@ window.PRINT_CASE_MODELS = {
     "iPhone 17 Pro MagSafe",
     "iPhone 17 Air",
     "iPhone 17 Air MagSafe",
-    "iPhone 17 Pro Max"
+    "iPhone 17 Pro Max",
     "iPhone 17 Pro Max MagSafe",
   ],
   "Samsung": [
